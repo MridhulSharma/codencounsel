@@ -1,0 +1,16 @@
+node_modules
+dist
+*.local
+.DS_Store
+*.db
+*.sqlite
+*.sqlite3
+.vite
+coverage
+test-results
+playwright-report
+*.tsbuildinfo
+.env
+.env.*
+!\.env.example
+__pycache__
